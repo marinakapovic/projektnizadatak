@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color: green;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    font-size: 17px;
+    line-height: 18px;
+    width: 600px;
+    background-color:aliceblue;
+    padding: 20px;
+}
+h1, h2{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color:crimson;
+}
+
+span{color: #572727;}
+.pozadina{
+    background-image: url(""../../Downloads/pexels-reggie-pankova-11577525.jpg"");
+}
+.drugapozadina{
+    background-color:blueviolet;
+}
+
+a:link{
+    color: black;
+    background-color: white;
+    padding: 6px;
+    line-height: 40px;
+    border:1px #000000;
+}
+a:hover{
+        background-color: darkgray;
+}
+img{
+    height: 200px;
+}
